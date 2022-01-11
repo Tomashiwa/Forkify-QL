@@ -1,6 +1,5 @@
 // Handles the search bar and search button
 
-// USING _ PROTECTED AS BABEL CANNOT HANDLE THE PRIVATE CLASS FIELD YET
 class SearchView {
   _parentElement = document.querySelector('.search');
 
